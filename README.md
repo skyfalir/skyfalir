@@ -1,7 +1,6 @@
 <h1 align="center">Welcome! My name is Sander Handeland</h1>
 <h3 align="center">Im a student of front end development studying at noroff university. I also have a life-long passion for music production and art!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skyfalir&label=Profile%20views&color=0e75b6&style=flat" alt="skyfalir" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
