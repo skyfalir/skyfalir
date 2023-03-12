@@ -43,6 +43,6 @@
 
 ###
 <div align="center">
-<img src="https://github.com/skyfalir/skyfalir/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github.com/skyfalir/skyfalir/blob/output/github-contribution-grid-snake-dark.svg" alt="snake graph animation"/>
 </div>
 
