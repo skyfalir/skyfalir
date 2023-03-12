@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! My name is sander and I am a Front-end Student studying at noroff university.<br>I've also been making music for as long as I can remember!<br><br>In my spare time I paint and dabble in game development/gaming.<br><br>
+Hey! My name is Sander and I am a Front-end Student studying at noroff university.<br>I've also been making music for as long as I can remember!<br><br>In my spare time I paint and dabble in game development/gaming.<br><br>
 
 
 ## 🌐 Socials:
