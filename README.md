@@ -1,4 +1,4 @@
-<h2 align="center">Hey!👋! My name is Sander and I'm a 🖥Front-end student and 🎼 Musician from Norway</h2>
+<h2 align="center">Hey!👋! My name is Sander and I'm a Front-end Developer and Musician from Norway</h2>
 
 ###
 
